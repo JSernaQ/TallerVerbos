@@ -21,3 +21,10 @@
 
 - **Método `toString()`**: Retorna una representación en cadena de los atributos del objeto.
 - **@Override**: Indica que un método en una subclase está sobrescribiendo un método de la superclase.
+
+INSERT POST:
+![image](https://github.com/user-attachments/assets/0feba774-323d-4f34-9129-ffc562bc190f)
+
+GETALL GET:
+![image](https://github.com/user-attachments/assets/95c739a9-cb5a-4412-b0e8-fba52ab3eda0)
+
